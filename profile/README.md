@@ -15,6 +15,6 @@ Agents research, write and build, each in its own isolated copy of the system. T
 
 The source opens soon, free to download, install and use. Join the waitlist on [headingos.com](https://headingos.com) to hear first.
 
-HEADING OS is the personal project of **Misha Hanin**, its initial architect, and **[Jochanan Sommerfeld](https://www.linkedin.com/in/jochanansommerfeld/)**, co-architect of the whole HEADING OS system. 31 Concept is not involved in it, does not maintain, sponsor or endorse it, and bears no responsibility for it.
+HEADING OS is the personal project of **[Misha Hanin](https://www.linkedin.com/in/mishahanin/)**, its initial architect, and **[Jochanan Sommerfeld](https://www.linkedin.com/in/jochanansommerfeld/)**, co-architect of the whole HEADING OS system. 31 Concept is not involved in it, does not maintain, sponsor or endorse it, and bears no responsibility for it.
 
 Contact: admin@headingos.com
