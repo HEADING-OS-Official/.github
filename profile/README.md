@@ -2,7 +2,7 @@
 
 **One person. An army of agents. Nothing leaves without your yes.**
 
-HEADING OS is the command post an executive runs their work from: mail, meetings, relationships, research and documents. It runs on your machine on top of Claude Code, and your data lives in your own private repository.
+HEADING OS is the command post an executive runs their work from. It prepares every meeting, keeps track of every promise, and never sends without your say. It runs on your machine on top of Claude Code, and your data lives in your own private repository.
 
 Agents research, write and build, each in its own isolated copy of the system. They cannot send anything, and they cannot start, stop or change what is running. Every outgoing message is a draft until you approve it.
 
